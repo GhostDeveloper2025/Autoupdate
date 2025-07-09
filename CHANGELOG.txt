@@ -1,0 +1,18 @@
+───────────────────────────
+  ✨ Versão 1.2.20
+  🗓 07 de Julho de 2025
+───────────────────────────
+
+✅ O que há de Novo:
+   •  **Sistema de Testes Automatizados (Ghots):** Adicionamos uma nova suíte de testes robusta para garantir ainda mais estabilidade e confiabilidade ao sistema.
+   •  **Relatórios Completos:** Agora você pode gerar relatórios detalhados com todas as informações importantes para sua gestão.
+
+🚀 Melhorias e Otimizações:
+   •  **Botão "Salvar":** Melhoramos a resposta visual e a performance do botão, tornando a experiência mais fluida.
+   •  **Envio por WhatsApp:** A integração com o WhatsApp foi aprimorada para um envio mais rápido e eficiente de mensagens e notificações.
+   •  **Tema Visual:** Ajustamos a cor do título na tela principal para um contraste e legibilidade superiores.
+
+🐞 Correções Importantes:
+   •  **Busca de Clientes:** Corrigimos um problema que impedia a busca correta de clientes inativos, garantindo que você encontre sempre quem precisa.
+
+───────────────────────────
